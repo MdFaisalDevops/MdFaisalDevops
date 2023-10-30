@@ -4,6 +4,8 @@
 
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<img align="right" height="300" width="500" src="https://github.com/MdFaisalDevops/MdFaisalDevops/assets/98974077/a97609e8-e824-4a27-a94f-61883ef94194" />
+
 
 <!-- Languages and Tools Section -->
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
@@ -35,12 +37,16 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" alt="kubernetes" width="40" height="40"/>
 </a>
 
-<!-- DevOps section -->
+<h4><font size="+1" face="Tahoma">DevOps section:</font></h4>
+<p align="left">
+</a>
 
-![aws](https://github.com/MdFaisalDevops/MdFaisalDevops/assets/98974077/aeb45d24-9d91-4305-8c01-21aeb934e329)
-![cicd](https://github.com/MdFaisalDevops/MdFaisalDevops/assets/98974077/c012989b-c76a-4ed5-9cbd-aaa88d483347)
-![docker](https://github.com/MdFaisalDevops/MdFaisalDevops/assets/98974077/a8becba3-4c66-4992-9057-b18d7881076b)
-
+<img align="down" height="100" width="200" src="https://github.com/MdFaisalDevops/MdFaisalDevops/assets/98974077/aeb45d24-9d91-4305-8c01-21aeb934e329" />
+<img align="down" height="100" width="200" src="https://github.com/MdFaisalDevops/MdFaisalDevops/assets/98974077/c012989b-c76a-4ed5-9cbd-aaa88d483347" />
+<img align="down" height="100" width="200" src="https://github.com/MdFaisalDevops/MdFaisalDevops/assets/98974077/ddc13bc7-769d-40ce-9385-e696a7d2c1cb" />
+<img align="down" height="100" width="200" src="https://github.com/MdFaisalDevops/MdFaisalDevops/assets/98974077/ce5ed33f-b7d5-442f-a1c3-ca7c705e1c16" />
+<img align="down" height="100" width="200" src="https://github.com/MdFaisalDevops/MdFaisalDevops/assets/98974077/36138b72-1bc6-490d-ad52-b6dd00057aea" />
+<img align="down" height="100" width="200" src="https://github.com/MdFaisalDevops/MdFaisalDevops/assets/98974077/55435884-9671-4c11-bb98-d7de949174c4" />
 
 
 - I work on DevOps, Microservices, containers, and everything around it.
