@@ -37,6 +37,14 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" alt="kubernetes" width="40" height="40"/>
 </a>
 
+<!-- DevOps section -->
+
+![aws](https://github.com/MdFaisalDevops/MdFaisalDevops/assets/98974077/aeb45d24-9d91-4305-8c01-21aeb934e329)
+![cicd](https://github.com/MdFaisalDevops/MdFaisalDevops/assets/98974077/c012989b-c76a-4ed5-9cbd-aaa88d483347)
+![docker](https://github.com/MdFaisalDevops/MdFaisalDevops/assets/98974077/a8becba3-4c66-4992-9057-b18d7881076b)
+
+
+
 - I work on DevOps, Microservices, containers, and everything around it.
 - 👯 I’m looking to collaborate on **Cloud-native Projects**
 
