@@ -11,7 +11,7 @@
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
 
 <!-- Cloud Section -->
-<h4><font size="+1" face="Tahoma">Cloud:</font></h4>
+<h4><font size="+2" face="Tahoma">Cloud:</font></h4>
 <p align="left">
 <a href="[https://aws.amazon.com](https://aws.amazon.com/)" target="_blank" rel="noreferrer">
 <img src="https://www.logigroup.com/images/Logo_aws.gif" alt="aws" width="100" height="80"/>
@@ -19,7 +19,7 @@
 </p>
 
 <!-- Scripting Section -->
-<h4><font size="+1" face="Tahoma">Scripting:</font></h4>
+<h4><font size="+2" face="Tahoma">Scripting:</font></h4>
 <p align="left">
 <a href="[https://www.python.org](https://www.python.org/)" target="_blank" rel="noreferrer">
 <img src="https://i.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.webp" alt="python" width="100" height="100"/>
@@ -27,7 +27,7 @@
 </p>
 
 <!-- Technologies Section -->
-<h4><font size="+1" face="Tahoma">Technologies:</font></h4>
+<h4><font size="+2" face="Tahoma">Technologies:</font></h4>
 <p align="left">
 </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -47,6 +47,8 @@
 <img align="down" height="100" width="200" src="https://github.com/MdFaisalDevops/MdFaisalDevops/assets/98974077/ce5ed33f-b7d5-442f-a1c3-ca7c705e1c16" />
 <img align="down" height="100" width="200" src="https://github.com/MdFaisalDevops/MdFaisalDevops/assets/98974077/36138b72-1bc6-490d-ad52-b6dd00057aea" />
 <img align="down" height="100" width="200" src="https://github.com/MdFaisalDevops/MdFaisalDevops/assets/98974077/55435884-9671-4c11-bb98-d7de949174c4" />
+<img align="down" height="100" width="200" src="https://github.com/MdFaisalDevops/MdFaisalDevops/assets/98974077/fbf0787e-3394-40cf-a3a1-f1d36886daa6" />
+<img align="down" height="200" width="400" src="https://github.com/MdFaisalDevops/MdFaisalDevops/assets/98974077/9217209d-da57-4c62-b0c0-543a6506a477" />
 
 
 - I work on DevOps, Microservices, containers, and everything around it.
