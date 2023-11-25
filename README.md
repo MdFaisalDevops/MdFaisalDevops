@@ -72,5 +72,5 @@ team.
 <p align="left">
 </p>
 
-- 💬 Ask me about **DevOps**
+-  https://www.linkedin.com/in/mohammed-faisal-bagban-a2496b231/
 - 📫 How to reach me **[bagbanfi@gmail.com](mailto:bagbanfi@gmail.com)**
