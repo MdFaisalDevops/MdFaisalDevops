@@ -59,8 +59,13 @@
  
 <img align="down" height="250" width="250" src="https://github.com/MdFaisalDevops/MdFaisalDevops/assets/98974077/9217209d-da57-4c62-b0c0-543a6506a477" />
 
-- I work on DevOps, Microservices, containers, and everything around it.
-- 👯 I’m looking to collaborate on **Cloud-native Projects**
+-Dedicated and results-driven DevOps
+professional with 3+ years of hands-on
+experience in optimizing and streamlining IT
+operations. Seeking a challenging role to
+leverage expertise in DevOps technologies and
+cloud infrastructure to contribute to a dynamic
+team.
 
 <!-- Contact Section -->
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
