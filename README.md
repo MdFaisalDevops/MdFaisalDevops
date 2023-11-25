@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Mohammed Faisal Bagban.
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/nasiullha-chaudhari/" target="_blank" rel="noreferrer"> I am a passionate DevOps Engineer from India, working on Cloud and DevOps. Feel free to reach out for any Freelance Projects.</font></h3>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/nasiullha-chaudhari/" target="_blank" rel="noreferrer"> I am a passionate DevOps Engineer from India, I have 3 years of working experience in AWS Cloud and DevOps. ready to take new challenges.</font></h3>
 
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
@@ -68,4 +68,4 @@
 </p>
 
 - 💬 Ask me about **DevOps**
-- 📫 How to reach me **[mdfaisalb50@gmail.com](mailto:mdfaisalb50@gmail.com)**
+- 📫 How to reach me **[bagbanfi@gmail.com](mailto:bagbanfi@gmail.com)**
